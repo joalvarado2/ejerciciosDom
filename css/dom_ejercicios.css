@@ -56,6 +56,10 @@ img{
     text-align: center;
 }
 
+#seccion5{
+    margin-top: 15rem;
+}
+
 .panel{
     position: fixed;
     z-index: 998;
