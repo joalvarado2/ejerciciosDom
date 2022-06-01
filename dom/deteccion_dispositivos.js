@@ -58,7 +58,7 @@ export default function userDeviceInfo(id) {
   }
 
   //redirecciones
-  if (isMobile.android()) {
+ /*  if (isMobile.android()) {
     window.location.href = "https://reactjs.org/";
-  }
+  } */
 }
