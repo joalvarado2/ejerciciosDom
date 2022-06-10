@@ -14,3 +14,5 @@ export default function searchFilters(input, selector) {
     }
   });
 }
+
+console.log("hola")
