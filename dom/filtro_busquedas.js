@@ -14,3 +14,9 @@ export default function searchFilters(input, selector) {
     }
   });
 }
+
+console.log("hola mundo en diferentes lenguajes")
+console.log("Hola mundo");
+console.log("Hello world");
+console.log("salut monde");
+console.log("Hallo Welt");
