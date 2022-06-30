@@ -1,8 +1,8 @@
 const d = document;
 
 export default function slider() {
-  const $nextBtn = d.querySelector(".slider-btns .next");
-  const $prevBtn = d.querySelector(".slider-btns .prev");
+  const $nextBtn = d.querySelector(".next");
+  const $prevBtn = d.querySelector(".prev");
   const $slides = d.querySelector(".slider-slide");
 
   let i = 0;
